@@ -5,7 +5,7 @@
 ### Who Am I
 - 💻 I majored in Computer Science Engineering
 - 🥔 I am just speaking potato..
--->
+
 ### Experience
 - 🎓 Pusan University , Computer Science Engineering (2018.03 ~ )
 - 🦁 LikeLion 9th
