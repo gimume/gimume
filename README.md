@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🦁 LikeLion 9th
 ### What I Like
 - 😋 Eating
-- 🙋‍Talking 
+- 🙋‍ Talking 
